@@ -5,6 +5,7 @@
 This study examines financial distress prediction among Ukrainian enterprises across two major economic shocks: the COVID-19 pandemic (2020) and the full-scale war (2022). Using a panel dataset of 81,269 firm-year observations across 18,183 unique firms covering 2018 to 2024, the study applies pooled logistic regression and a Random Forest classifier to identify the key determinants of financial distress. The Random Forest outperforms logistic regression, particularly in recall, driven by nonlinear threshold effects in the leverage-distress relationship. Operating profitability and total leverage emerge as the dominant predictors across all industries and crisis periods. The analysis further examines distress persistence, industry heterogeneity in distress determinants, and how predictive signals shift between the two crises. Results carry practical implications for creditors, firm managers, and financial regulators operating in crisis-prone environments.
 
 ## Repository Structure
+```
 ├── README.md
 │
 ├── notebooks/
@@ -13,7 +14,8 @@ This study examines financial distress prediction among Ukrainian enterprises ac
 │   └── 03_modelling.ipynb            # Logistic regression, Random Forest, model evaluation
 │
 └── data/
-└── README.md                     # Data description (files not included)
+    └── README.md                     # Data description (files not included)
+```
 
 ## Data Availability
 
