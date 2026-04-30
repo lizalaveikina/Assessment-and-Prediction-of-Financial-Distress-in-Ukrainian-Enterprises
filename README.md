@@ -23,4 +23,6 @@ The data used in this study are provided by YouControl and contain confidential 
 
 ## Reproducibility Note
 
-The notebooks are provided for transparency and documentation of the analytical pipeline. However, **running the notebooks locally will not reproduce the results** as the underlying data files are not publicly available. The code is intended to fully document the methodology, variable construction, and modelling choices described in the thesis.
+The notebooks are provided for transparency and documentation of the analytical pipeline. However, **running the notebooks locally will not reproduce the results** as the underlying data files are not publicly available. The code is intended to fully document the methodology, variable construction, and modelling choices described in the thesis. 
+
+The notebooks are designed to be reviewed in sequential order: '01_data_preprocessing.ipynb' covers data cleaning, variable construction, and distress proxy definition; '02_eda.ipynb' presents the exploratory analysis; and '03_modelling.ipynb' contains the logistic regression, Random Forest estimation, and model evaluation.
