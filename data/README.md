@@ -55,7 +55,7 @@ Firms are classified into six industry groups based on the Ukrainian Classificat
 | Interest Coverage | EBIT / Financial Expenses | Solvency |
 | Asset Turnover | Net Revenue / Total Assets | Activity |
 | Payables Turnover | COGS / Accounts Payable | Activity |
-| Investment Opportunities | (ΔPPE + Depreciation) / Lagged PPE | Activity |
+| Investment Opportunities | (ΔPPE + Depreciation) / Lagged PPE | Investment Opportunities |
 | Firm Size | ln(Total Assets) | Size |
 
 ## Financial Distress Proxy
