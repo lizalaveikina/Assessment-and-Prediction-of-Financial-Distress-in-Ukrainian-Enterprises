@@ -8,11 +8,11 @@ This study examines financial distress prediction among Ukrainian enterprises ac
 ```
 ├── README.md
 ├── 01_data_preprocessing_and_description.ipynb   # Data cleaning, variable construction, distress proxy
-├── 02_eda.ipynb                  # Exploratory data analysis
-├── 03_modelling_and_prediction.ipynb            # Logistic regression, Random Forest, model evaluation
+├── 02_eda.ipynb                                  # Exploratory data analysis
+├── 03_modelling_and_prediction.ipynb             # Logistic regression, Random Forest, model evaluation
 │
 └── data/
-    └── README.md                     # Data description (files not included)
+    └── README.md                                 # Data description (files not included)
 ```
 
 ## Data Availability
