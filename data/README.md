@@ -46,7 +46,7 @@ Firms are classified into six industry groups based on the Ukrainian Classificat
 | Gross Margin | Gross Profit / Net Revenue | Profitability |
 | Current Ratio | Current Assets / Current Liabilities | Liquidity |
 | Quick Ratio | (Current Assets - Inventories) / Current Liabilities | Liquidity |
-| Working Capital/Assets | (Current Assets - Current Liabilities) / Total Assets | Liquidity |
+| Working Capital to Assets | (Current Assets - Current Liabilities) / Total Assets | Liquidity |
 | Total Liabilities to Assets | Total Liabilities / Total Assets | Leverage |
 | Long-Term Liabilities to Assets | Long-Term Liabilities / Total Assets | Leverage |
 | Short-Term Liabilities to Assets | Short-Term Liabilities / Total Assets | Leverage |
@@ -75,4 +75,4 @@ A firm-year observation is classified as financially distressed if **at least tw
 The "at least two" threshold reduces the risk of false positives from relying on a single indicator. Each criterion captures a distinct dimension of financial health: operational profitability, balance sheet solvency, and revenue dynamics. Pairwise phi-coefficients between all three criteria are below 0.4, confirming that the criteria reflect different aspects of financial distress.
 
 ## Further Documentation
-Full variable construction details are documented in `notebooks/01_data_preprocessing.ipynb`.
+Full variable construction details are documented in `01_data_preprocessing_and_description.ipynb`.
